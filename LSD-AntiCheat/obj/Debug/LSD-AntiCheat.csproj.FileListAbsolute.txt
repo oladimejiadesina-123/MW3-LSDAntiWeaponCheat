@@ -1,0 +1,6 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSD-AntiCheat\LSD-AntiCheat\bin\Debug\InfinityScript.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSD-AntiCheat\LSD-AntiCheat\obj\Debug\LSD-AntiCheat.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSD-AntiCheat\LSD-AntiCheat\bin\Debug\LSDAntiCheat.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSD-AntiCheat\LSD-AntiCheat\bin\Debug\LSDAntiCheat.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSD-AntiCheat\LSD-AntiCheat\obj\Debug\LSDAntiCheat.dll
+C:\Users\User\Documents\Visual Studio 2012\Projects\LSD-AntiCheat\LSD-AntiCheat\obj\Debug\LSDAntiCheat.pdb
